@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module2-Test-Drawing", "Module2-Test-Drawing\Module2-Test-Drawing.csproj", "{9CA5C157-A0C1-451A-B760-444BD57052F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA5C157-A0C1-451A-B760-444BD57052F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA5C157-A0C1-451A-B760-444BD57052F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA5C157-A0C1-451A-B760-444BD57052F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA5C157-A0C1-451A-B760-444BD57052F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C25847B5-ACFA-4828-9548-C48DA517BA97}
+	EndGlobalSection
+EndGlobal
