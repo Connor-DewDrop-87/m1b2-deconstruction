@@ -1,6 +1,5 @@
 ﻿// Include the namespaces (code libraries) you need below.
 using System;
-using System.Data;
 using System.Numerics;
 
 // The namespace your code is in.
@@ -12,9 +11,7 @@ namespace MohawkGame2D
     public class Game
     {
         // Place your variables here:
-        int[] x = { 50, 70, 80, 90, 200 };
-        int[] y = { 50, 70, 80, 90, 200 };
-        int[] r = { 50, 70, 80, 90, 200 };
+
 
         /// <summary>
         ///     Setup runs once before the game loop begins.
@@ -22,8 +19,8 @@ namespace MohawkGame2D
         public void Setup()
         {
             Window.SetSize(400, 400);
-            Window.SetTitle("Eye Balls");
-            Window.ClearBackground(Color.OffWhite);
+            Window.SetTitle("Starry Night");
+            Window.ClearBackground(Color.Black);
         }
 
         /// <summary>
@@ -31,12 +28,7 @@ namespace MohawkGame2D
         /// </summary>
         public void Update()
         {
-            
-            for (int index = 0; index > 4; index++)
-            {
-                Draw.FillColor=Color.Black;
-                Draw.Circle(x[index], y[index], r[index]);
-            }
+
         }
     }
 

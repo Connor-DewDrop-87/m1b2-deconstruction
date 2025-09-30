@@ -42,9 +42,9 @@ namespace MohawkGame2D
                         Draw.Square(0 + 50 * x, 0 + 50 * y, 50);
                         
                     }
-                    if (xremainder == 1 ^ yremainder == 1)
+                    if (xremainder == 1 ^ yremainder==1)
                     {
-                        Draw.FillColor = Color.White;
+                        Draw.FillColor = Color.Red;
                         Draw.Square(0 + 50 * x, 0 + 50 * y, 50);
                         
                     }
