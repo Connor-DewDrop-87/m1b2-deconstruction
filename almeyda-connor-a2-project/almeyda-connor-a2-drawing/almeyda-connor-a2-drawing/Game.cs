@@ -18,7 +18,7 @@ namespace MohawkGame2D
         /// </summary>
         public void Setup()
         {
-
+            Window.SetSize(400, 400);
         }
 
         /// <summary>
