@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nBQ9jntuaZ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\conno\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\Quadrants (Challenge)\\Quadrants (Challenge).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conno\\.nuget\\packages\\raylib-cs\\6.1.1\\raylib-cs.6.1.1.nupkg.sha512",
+    "C:\\Users\\conno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

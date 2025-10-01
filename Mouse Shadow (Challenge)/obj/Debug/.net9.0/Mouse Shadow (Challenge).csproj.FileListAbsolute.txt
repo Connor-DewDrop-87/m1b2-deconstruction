@@ -1,0 +1,23 @@
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\Mouse Shadow (Challenge).exe
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\Mouse Shadow (Challenge).deps.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\Mouse Shadow (Challenge).runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\Mouse Shadow (Challenge).dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\Mouse Shadow (Challenge).pdb
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\Raylib-cs.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\runtimes\win-x64\native\raylib.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\bin\Debug\.net9.0\runtimes\win-x86\native\raylib.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).sourcelink.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Sh.0A229553.Up2Date
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\refint\Mouse Shadow (Challenge).dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).pdb
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\Mouse Shadow (Challenge).genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Mouse Shadow (Challenge)\obj\Debug\.net9.0\ref\Mouse Shadow (Challenge).dll

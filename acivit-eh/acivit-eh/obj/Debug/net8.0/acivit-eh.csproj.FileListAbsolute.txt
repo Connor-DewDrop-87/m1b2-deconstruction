@@ -1,0 +1,15 @@
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\bin\Debug\net8.0\acivit-eh.exe
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\bin\Debug\net8.0\acivit-eh.deps.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\bin\Debug\net8.0\acivit-eh.runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\bin\Debug\net8.0\acivit-eh.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\bin\Debug\net8.0\acivit-eh.pdb
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\acivit-eh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\acivit-eh.AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\acivit-eh.AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\acivit-eh.csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\acivit-eh.sourcelink.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\acivit-eh.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\refint\acivit-eh.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\acivit-eh.pdb
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\acivit-eh.genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\acivit-eh\acivit-eh\obj\Debug\net8.0\ref\acivit-eh.dll

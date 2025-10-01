@@ -1,0 +1,23 @@
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\Quadrants (Challenge).exe
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\Quadrants (Challenge).deps.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\Quadrants (Challenge).runtimeconfig.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\Quadrants (Challenge).dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\Quadrants (Challenge).pdb
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\Raylib-cs.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\runtimes\linux-x64\native\libraylib.so
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\runtimes\osx-arm64\native\libraylib.dylib
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\runtimes\win-x64\native\raylib.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\bin\Debug\.net9.0\runtimes\win-x86\native\raylib.dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).csproj.AssemblyReference.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).AssemblyInfoInputs.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).AssemblyInfo.cs
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).csproj.CoreCompileInputs.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).sourcelink.json
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrant.E6995DEE.Up2Date
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\refint\Quadrants (Challenge).dll
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).pdb
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\Quadrants (Challenge).genruntimeconfig.cache
+C:\Users\conno\OneDrive\Documents\Visual Studio 2022\Projects\Quadrants (Challenge)\obj\Debug\.net9.0\ref\Quadrants (Challenge).dll

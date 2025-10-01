@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conno\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\Stairs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6499354F-7635-4E00-944E-7740C7D038EE}|Stairs\\Stairs.csproj|c:\\users\\conno\\onedrive\\documents\\visual studio 2022\\projects\\stairs\\stairs\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6499354F-7635-4E00-944E-7740C7D038EE}|Stairs\\Stairs.csproj|solutionrelative:stairs\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\conno\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\Stairs\\Stairs\\Game.cs",
+              "RelativeDocumentMoniker": "Stairs\\Game.cs",
+              "ToolTip": "C:\\Users\\conno\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\Stairs\\Stairs\\Game.cs",
+              "RelativeToolTip": "Stairs\\Game.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T14:09:56.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
